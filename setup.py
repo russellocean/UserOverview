@@ -6,7 +6,7 @@ setup(
     description='A Trac plugin to display all registered users and their CC activity',
     author='Russell Welch',
     author_email='russellwelch17@gmail.com',
-    url='',
+    url='https://github.com/russellocean/UserOverview',
     packages=find_packages(exclude=['*.tests*']),
     entry_points = {
         'trac.plugins': [
